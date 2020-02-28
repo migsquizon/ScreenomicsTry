@@ -23,7 +23,6 @@
         android:layout_alignBaseline="@+id/button1"
         android:layout_alignBottom="@+id/button1"
         android:layout_alignParentRight="true"
-        android:onClick="stopNewService"
         android:text="Stop Service"
         tools:ignore="MissingConstraints"
         tools:layout_editor_absoluteX="146dp"
@@ -36,7 +35,6 @@
         android:layout_alignParentLeft="true"
         android:layout_alignParentTop="true"
         android:layout_marginTop="23dp"
-        android:onClick="startNewService"
         android:text="Start Service"
         tools:ignore="MissingConstraints" />
 
